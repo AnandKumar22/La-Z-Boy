@@ -40,6 +40,7 @@ setup(
     # Dependent packages (distributions)
     install_requires=[
         "BeautifulSoup",
+        "BeautifulSoup4",
         "mechanize",
         "fpdf",
         "tabulate"
