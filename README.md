@@ -20,6 +20,9 @@ Install all the dependencies using `pip install -r requirements.txt` before usin
    * mechanize
    * tabulate
    * fpdf
+   * BeautifulSoup4
+   * requests
+   (The last 2 are optional as they may be reqired as in few cases or may not be required)
 
 ### Usage
 -----------------
@@ -68,7 +71,8 @@ Currently supported:
 - [x] Print output in `Prettytable` format
 - [ ] Allow search for Entertainment Channels
 - [x] Provide option to save details as PDF
-- [ ] Send notification to the user
+- [ ] Create an account of the user
+- [ ] Send notifications to the user
 
 ### Contribute
 
