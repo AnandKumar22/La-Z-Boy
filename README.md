@@ -21,9 +21,8 @@ Install all the dependencies using `pip install -r requirements.txt` before usin
    * tabulate
    * fpdf
    * BeautifulSoup4
-   * requests
+   * requests  
    
-   (The last 2 are optional as they may be reqired as in few cases or may not be required)
 
 ### Usage
 -----------------
