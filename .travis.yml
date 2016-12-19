@@ -14,5 +14,5 @@ install:
   - pip install -r requirements.txt
 #test script
 script:
-  - La-Z-Boy/__main__.py
+  - python La-Z-Boy/__main__.py
   
